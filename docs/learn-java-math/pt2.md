@@ -1,4 +1,4 @@
-# 第二部分 Java 中间产品
+# 第二部分：Java 进阶
 
 Java Intermediate
 
